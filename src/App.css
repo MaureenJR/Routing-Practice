@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+}
+
+h1{
+  width: 500px;
+  margin: 60px auto;
+  padding: 30px;
+  border-radius: 10px;
+  border: 2px solid rgba(2, 2, 2, 0.749);
+}
+
